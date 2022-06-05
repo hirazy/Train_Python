@@ -8,3 +8,9 @@ if __name__ == '__main__':
 
     hello = "Hello"
     print(hello.center(10))
+
+# Tuple
+a = (3, 3)
+
+# Dictionary
+b = {'a': 3}

@@ -1,7 +1,7 @@
 # This is a sample Python script.
 
 import numpy as np
-import pandas as pd
+import train_pandas as pd
 import matplotlib.pyplot as plt
 import re
 
